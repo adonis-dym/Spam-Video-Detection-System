@@ -21,3 +21,7 @@ BERT source repo: https://github.com/google-research/bert
 Use Resnet_v2_101 for video cover image spam classification.  
 Author: me (EpicTardis) https://github.com/EpicTardis
 
+## Bilibili Chrome Plugin
+Author: https://github.com/GANGE666
+Use our results to tag videos in browsers.
+
