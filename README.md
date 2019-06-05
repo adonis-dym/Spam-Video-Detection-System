@@ -23,5 +23,6 @@ Author: me (EpicTardis) https://github.com/EpicTardis
 
 ## Bilibili Chrome Plugin
 Author: https://github.com/GANGE666
+
 Use our results to tag videos in browsers.
 
