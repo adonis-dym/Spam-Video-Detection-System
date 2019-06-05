@@ -7,11 +7,11 @@ We define spam video as following:
 2. May have attracting cover image containing pornography or bizarre features.
 3. May have attracting title not in line with the fact or raising curiosity.
 
-## PHPMySQL
+## PHPMySQL-Crawler
 Author: https://github.com/GANGE666  
 Multiprocess crawler for getting comprehensive information of videos on bilibili. Including avid, title, times of view, cover picture address, etc.  
 ## BaitOrNot
-Author: https://github.com/ZhiyangZhang98
+Author: https://github.com/ZhiyangZhang98  
 Output a score indicating whether one video is a bait. It takes number of favorites, coins, views and comments into consideration.  
 ## BERT-NLP
 Use BERT model for natural language processing. It was casted as a binary classifier here.  
