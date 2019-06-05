@@ -1,0 +1,17 @@
+{
+  "name": "Spam Video Detecting System for Self-media Website Bilibili",
+  "description": "Spam Video Detecting System for Self-media Website Bilibili",
+  "version": "1.2",
+  "background": {
+    "page": "background.html"
+  },
+  "page_action": {
+    "default_title": "First icon"
+  },
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  
+  "manifest_version": 2
+}
