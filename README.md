@@ -1,6 +1,6 @@
 # Spam-Video-Detection-System
-Spam Video Detecting System for Self-media Website Bilibili
-We design a span video detector. Given impression information before user watched the video(title/cover image/clicks/type), output the possibility of being a spam detector. 
+Spam Video Detecting System for Self-media Website Bilibili  
+We design a span video detector. Given impression information before user watched the video(title/cover image/clicks/type), output the possibility of being a spam video. 
 
 We define spam video as following:  
 1. High clicks with low collections or likes.
