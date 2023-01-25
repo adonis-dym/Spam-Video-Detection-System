@@ -16,6 +16,7 @@ Output a score indicating whether one video is a bait. It takes number of favori
 ## BERT-NLP
 Use BERT model for natural language processing. It was casted as a binary classifier here.  
 Author: https://github.com/KiedaTamashi
+
 BERT source repo: https://github.com/google-research/bert  
 ## ResNet-Multimedia
 Use Resnet_v2_101 for video cover image spam classification.  
