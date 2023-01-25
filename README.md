@@ -19,7 +19,7 @@ Author: https://github.com/XiaoSanGit
 BERT source repo: https://github.com/google-research/bert  
 ## ResNet-Multimedia
 Use Resnet_v2_101 for video cover image spam classification.  
-Author: me (EpicTardis) https://github.com/EpicTardis
+Author: me (adonis-dym) https://github.com/adonis-dym
 
 ## Bilibili Chrome Plugin
 Author: https://github.com/GANGE666
